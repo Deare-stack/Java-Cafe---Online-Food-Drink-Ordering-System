@@ -1,4 +1,7 @@
-# Katrina Cwiertniewicz, Deare Abudushalamu, Brittany Klose
-# CSC 351
+# Deare Abudushalamu, Brittany Klose, Katrina Cwiertniewicz
 # 12/09/24
-# DB Final Project: Implementing a 3-tier client/server application involving a Web Browser, NodeJS Web server, and MySQl DB server
+
+The project uses Express.js for the backend, supporting CRUD operations for user accounts, orders, and product listings. The database is built with MySQL to manage user information, orders, and product categories efficiently.
+
+This project serves as both a practical application for learning full-stack development and a functional prototype for a real-world cafe business.
+
