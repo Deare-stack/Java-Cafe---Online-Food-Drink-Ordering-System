@@ -6,10 +6,10 @@ Key Features:
 
 - User Login & Account Management: Users can create accounts, log in, and view their account information.
 - Menu Browsing: Customers can browse items by category and view individual item details.
--Cart Functionality: Add items to the cart, select quantity and size, and manage the cart.
--Order Placement: Users can place orders with a streamlined checkout process.
--Responsive Design: The website is built to be responsive, ensuring a great experience on all devices.
--Admin Panel: Allows the management of products, categories, and user orders.
+- Cart Functionality: Add items to the cart, select quantity and size, and manage the cart.
+- Order Placement: Users can place orders with a streamlined checkout process.
+- Responsive Design: The website is built to be responsive, ensuring a great experience on all devices.
+- Admin Panel: Allows the management of products, categories, and user orders.
 
 The project uses Express.js for the backend, supporting CRUD operations for user accounts, orders, and product listings. The database is built with MySQL to manage user information, orders, and product categories efficiently.
 
