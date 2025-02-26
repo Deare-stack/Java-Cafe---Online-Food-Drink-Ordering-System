@@ -1,6 +1,7 @@
 # Java Cafe - Online Food & Drink Ordering System
 - Authors:
 Deare Abudushalamu, Brittany Klose, Katrina Cwiertniewicz
+
 Date: 12/09/24
 - Project Overview:
 Java Cafe is an online food and drink ordering platform that provides a seamless user experience for browsing and ordering cafe products. The application is built using Express.js for the backend, allowing for CRUD (Create, Read, Update, Delete) operations on user accounts, orders, and product listings. The database is powered by MySQL, efficiently managing user information, order details, and product categories.
